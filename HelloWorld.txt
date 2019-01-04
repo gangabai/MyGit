@@ -1,6 +1,6 @@
 class HelloWorld{
 
- void myMethod()
+  stattic void myMethod()
 {
       System.out.println("Helloooooooo Worlddddd.... wc to git");
 }
