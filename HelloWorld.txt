@@ -1,6 +1,6 @@
 class HelloWorld{
-nain(){
+public static void main(String args[]){
 
-stysout("Helloooooooo Worlddddd");
+System.out.println("Helloooooooo Worlddddd");
 }
 }
