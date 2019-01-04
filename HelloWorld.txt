@@ -5,5 +5,6 @@ class HelloWorld{
       System.out.println("Helloooooooo Worlddddd.... wc to git");
 }
 public static void main(String args[]){
+Hw h=new Hw();
 }
 }
