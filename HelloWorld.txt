@@ -1,0 +1,6 @@
+class HelloWorld{
+nain(){
+
+stysout("Helloooooooo Worlddddd");
+}
+}
